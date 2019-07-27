@@ -4,4 +4,4 @@ Just another repositoy
 
 Hello all,
 
-  I'm Saint425, I like SQL, Python, and Ruby. I'm student in Computer Science and still learning the rules. ^_^
+  I'm Saint425, I enjoy C#, C/C++, Python, and SQL. I'm a Computer Scientist who enjoys Programming, Web Development, and Data Sciences (Machine Learning and Deep Learning). ^_^
